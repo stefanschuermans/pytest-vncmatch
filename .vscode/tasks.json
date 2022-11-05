@@ -1,0 +1,10 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "pytest-3 test_xcalc.py",
+            "type": "shell",
+            "command": "pytest-3 test_xcalc.py"
+        }
+    ]
+}
